@@ -1,0 +1,3 @@
+https://www.enterprisedb.com/download-postgresql-binaries
+
+https://gist.github.com/jctosta/baa4a1ba472a5999f445c0f43fdbe208
