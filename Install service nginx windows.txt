@@ -1,0 +1,8 @@
+Install service nginx
+1. Buka Command Prompt mode Administrator.
+2. masuk ke direktory nssm/win64/
+3. Defenisikan the path of the nginx.exe file.
+4. Klik Install Service.
+5. kemudian Win+R lalu kettikan services.msc.
+6. lihat srvice nginx yang sudah dibuat lalu klik start.
+7. tes menggunakan browser.
